@@ -42,7 +42,7 @@ paths:
           description: Unspecified Error
   /Versions:
     servers:
-      - url: https://api.example.com/Adr
+      - url: https://localhost/Adr
         description: Override base path for Versions query
     get:
       tags:
