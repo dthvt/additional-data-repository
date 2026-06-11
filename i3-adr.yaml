@@ -20,7 +20,7 @@ paths:
             type: string
       responses:
         '200':
-          description: Additional Data found
+          description: Additional Data Found
           content:
             application/xml:
               schema:
@@ -51,7 +51,7 @@ paths:
       operationId: RetrieveVersions
       responses:
         '200':
-          description: Versions found
+          description: Versions Found
           content:
             application/json:
               schema:
